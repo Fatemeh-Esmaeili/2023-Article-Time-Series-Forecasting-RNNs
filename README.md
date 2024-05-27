@@ -1,4 +1,4 @@
-# 2023-Time-Series-Forecasting-GRU
+# 2023-Ppaer3-Time-Series-Forecasting-RNNs
 
 Utilizing Deep Learning Algorithms for Signal Processing in Electrochemical Biosensors: From Data Augmentation to Detection and Quantification of Chemicals of Interest
 
