@@ -16,7 +16,7 @@ stepJump = 15;
 
 offset = 0;
 for i = 1: timeStep   
-    i
+    %i
 
     segs=[];  
     for l = 1: size(s,2)
